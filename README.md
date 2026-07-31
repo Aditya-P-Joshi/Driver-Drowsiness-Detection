@@ -70,7 +70,7 @@ When the EAR stays below the configured threshold for a set time, the Python app
 1. Install the Python dependencies:
 
 ```bash
-pip install -r requirements.txt
+pip install -r hardware.txt
 ```
 
 2. Upload the Arduino sketch from `Arduino.ino.ino` to your board.
