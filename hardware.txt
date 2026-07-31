@@ -1,0 +1,4 @@
+Arduino UNO
+Red LED x 1
+Green LED x 1
+Buzzer x 1
