@@ -15,7 +15,7 @@ When the EAR stays below the configured threshold for a set time, the Python app
 
 ## Preview
 
-![Circuit diagram](Circuit Diagram.png)
+![Circuit diagram](Circuit_Diagram.png)
 
 ## Features
 
@@ -32,7 +32,7 @@ When the EAR stays below the configured threshold for a set time, the Python app
 |-- Main.py
 |-- Arduino_Code.ino
 |-- hardware.txt
-|-- Circuit Diagram.png
+|-- Circuit_Diagram.png
 |-- haarcascade_eye.xml
 |-- haarcascade_frontalface_default.xml
 |-- .gitignore
@@ -43,7 +43,7 @@ When the EAR stays below the configured threshold for a set time, the Python app
 
 - [Main.py](Main.py) - main Python application
 - [Arduino_Code.ino](Arduino_Code.ino) - Arduino sketch for alert output
-- [Circuit.png](Circuit Diagram.png) - wiring reference
+- [Circuit.png](Circuit_Diagram.png) - wiring reference
 - [hardware.txt](hardware.txt) - hardware parts list
 - [haarcascade_eye.xml](haarcascade_eye.xml) - OpenCV eye cascade asset
 - [haarcascade_frontalface_default.xml](haarcascade_frontalface_default.xml) - OpenCV face cascade asset
