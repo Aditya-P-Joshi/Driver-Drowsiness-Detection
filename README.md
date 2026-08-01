@@ -15,7 +15,7 @@ When the EAR stays below the configured threshold for a set time, the Python app
 
 ## Preview
 
-![Circuit diagram](Circuit.png)
+![Circuit diagram](Circuit Diagram.png)
 
 ## Features
 
